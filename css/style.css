@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+  }
+.top-side {
+    border: 0;
+    background-color: papayawhip;
+}
+.panguin .panguin-logo img {
+    height: 20px;
+}
+.top-side .top-photo img {
+    width: 100%;
+}
+.fashion-card {
+    border: 0;
+    background-color: lightgray;
+}
+.fashion-card .bottom-foto img {
+    width: 200px;
+}
+.fashion-title{
+    color: darkslateblue;
+}
+.fashion-tag {
+    color: darkorange;
+}
+.card-text {
+    color: darkslategray;
+}
+.bottom-text {
+    color: dimgrey;
+}
+.fashion-footer {
+    border: 0;
+    background-color: linen;
+}
+.bottom-card img {
+    width: 80px;
+}
+#over img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }

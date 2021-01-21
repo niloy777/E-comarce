@@ -1,0 +1,10 @@
+.panguin .panguin-logo img {
+    height: 50px;
+}
+.top-side .top-photo img {
+    width: 100%;
+}
+penguin-text {
+    color: $yellow-300;
+  background-color: $indigo-900;
+}
